@@ -1,0 +1,39 @@
+body{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 0;
+}
+.topheader{
+    background-image: url(../images/banner.jpg);
+    background-repeat: no-repeat;
+    background-size:  cover;
+    height: 100%;
+    width: 100%;
+    overflow: visible;
+    position: absolute;
+    min-height:100%;
+
+}
+/* .topheader:before {
+    content: "đas";
+    position: absolute;
+    left: 0; right: 0;
+    top: 0; bottom: 0;
+    background: rgba(0,0,0,.5);
+  } */
+
+/* body .bg-blue{
+   background: #1b8bff !important;
+
+}
+.navbar-light .navbar-nav .active > .nav-link, .navbar-light .navbar-nav .nav-link.active, .navbar-light .navbar-nav .nav-link.show, .navbar-light .navbar-nav .show > .nav-link {
+    color: #fff;
+ 
+ 
+}
+.navbar-light .navbar-nav .nav-link {
+    color: #fff !important;
+    padding: 0 20px !important;
+    font-weight: bold;
+    text-transform: uppercase;
+   
+} */
